@@ -169,3 +169,35 @@ header nav div ul a{
 #think p{
     font-weight: lighter;
 }
+
+
+footer{
+    background-color: #001931;
+    margin-top: 120px;
+}
+footer .logo-social-container{
+    padding: 120px;
+    color: white;
+}
+footer .logo-social-container .logo-social{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+footer .logo-social-container .logo-social .social .logos{
+    display: flex;
+    gap: 16px;
+    margin-top: 16px;
+}
+footer .logo-social-container .logo-social .social .logos img{
+    width: 20px;
+    height: auto;
+}
+footer .logo-social-container hr{
+    border: none;
+    border-top: 1px solid rgba(231, 231, 231, 0.292);
+    margin-bottom: 30px;
+}
+footer .logo-social-container p{
+    text-align: center;
+}
