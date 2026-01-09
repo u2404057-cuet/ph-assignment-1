@@ -154,3 +154,18 @@ header nav div ul a{
 #bottom .container-image .checks img{
     margin: 16px 6px;
 }
+
+
+#think .container{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: auto 120px;
+    background-color: #F7F6F2;
+    padding: 80px 375px;
+    align-items: center;
+    text-align: center;
+}
+#think p{
+    font-weight: lighter;
+}
